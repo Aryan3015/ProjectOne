@@ -1,1 +1,2 @@
 this the chapter one of the project
+i am adding some new text to the file before the first commit
