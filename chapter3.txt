@@ -1,2 +1,3 @@
 this is the chapter three of the project 
 i am adding text here after the first commit named complete first commit
+i am adding the text to commit changes in this file for the new branch branch2
